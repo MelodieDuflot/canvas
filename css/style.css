@@ -1,0 +1,14 @@
+body{
+    overflow: hidden;
+    margin: 0;
+    background: #111;
+    font-family: "Open Sans";
+}
+
+canvas{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
